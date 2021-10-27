@@ -1,8 +1,10 @@
 html{
-	--dark: #303030;
-	--light: #efefef;
-	--accent1: orange;
-	--accent2: lightskyblue;
+	--dark: #efefef;
+	--light: #303030;
+	--accent1: #aa5000;
+	--accent2: #87cefa;
+	--accent1i: #005aff;
+	--accent2i: #783105;
 	background-color: var(--dark);
 	color: var(--light);
 	font-family: sans-serif;
